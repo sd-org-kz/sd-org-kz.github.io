@@ -182,3 +182,4 @@
     nav{order:3}
     .nav{gap:10px}
   }
+  section[id],[id="top"]{scroll-margin-top:72px}
